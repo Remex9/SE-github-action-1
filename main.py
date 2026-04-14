@@ -1,3 +1,5 @@
+import numpy as np
+
 class Calculator:
     """A simple calculator with basic arithmetic operations."""
 
